@@ -14,7 +14,7 @@
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
-        <scope>sn_yugamai</scope>
+        <scope>global</scope>
         <scoped_administration>false</scoped_administration>
         <short_description/>
         <source>sn_yugamai</source>
