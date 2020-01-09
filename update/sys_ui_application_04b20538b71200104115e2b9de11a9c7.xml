@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>HELLO</name>
+        <order/>
+        <roles>sn_yugamai.hello_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-09 20:06:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>04b20538b71200104115e2b9de11a9c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HELLO</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="yugamai" source="sn_yugamai">8bb16d9153433300cf70ddeeff7b12ab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="yugamai">8bb16d9153433300cf70ddeeff7b12ab</sys_scope>
+        <sys_update_name>sys_ui_application_04b20538b71200104115e2b9de11a9c7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-09 20:06:32</sys_updated_on>
+    </sys_ui_application>
+</record_update>

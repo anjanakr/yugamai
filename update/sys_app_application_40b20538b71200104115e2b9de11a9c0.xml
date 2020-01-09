@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>HELLO</name>
+        <order>100</order>
+        <roles>sn_yugamai.hello_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-09 20:06:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>40b20538b71200104115e2b9de11a9c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HELLO</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="yugamai" source="sn_yugamai">8bb16d9153433300cf70ddeeff7b12ab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="yugamai">8bb16d9153433300cf70ddeeff7b12ab</sys_scope>
+        <sys_update_name>sys_app_application_40b20538b71200104115e2b9de11a9c0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-09 20:06:32</sys_updated_on>
+        <title>HELLO</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
